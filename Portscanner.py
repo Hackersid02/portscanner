@@ -17,4 +17,4 @@ def scan_port(ipaddress,port) :
             except:
                     print("[_]port closed" + str(port))
 
-targets 
+targets  = 
